@@ -13,4 +13,5 @@ beneath a heap of gold where it can do no further harm.</p>
 whispers in the wearer's ear: "Better for you if you take me off." If the wearer ignores
 the advice, it never again repeats that particular suggestion.</p>
 
-<img> src=""
+<img> src="earring.png"
+
