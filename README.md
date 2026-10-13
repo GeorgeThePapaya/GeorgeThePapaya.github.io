@@ -1,3 +1,3 @@
 # GeorgeThePapaya.github.io
 
-I think, therefore, I am.
+<h1> I think, therefore, I am. </h1>
