@@ -1,7 +1,7 @@
 # GeorgeThePapaya.github.io
 
 <h1> I think, therefore, I am.</h1>
-<h3> Full-Stack Course, 10/13/2026 </h2>
+<h3> Full-Stack Course, 10/13/2026 </h3>
 
 <img src = "https://media1.tenor.com/m/4Ro-nOcEVVMAAAAd/michaeljordan-mj.gif width=25%">
 
