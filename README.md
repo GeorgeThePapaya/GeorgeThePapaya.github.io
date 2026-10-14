@@ -14,4 +14,4 @@ whispers in the wearer's ear: "Better for you if you take me off." If the wearer
 the advice, it never again repeats that particular suggestion.</p>
 
 <img src="earring.png" width="50%">
-
+<img src = "https://media1.tenor.com/m/4Ro-nOcEVVMAAAAd/michaeljordan-mj.gif width=25%">
