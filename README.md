@@ -18,5 +18,10 @@
 
 <!-- 10/14/2026 -->
 
-<input type = "text" placeholder="sex gifsz">
-<button> Press me! </button>
+<input type = "text" placeholder="sex gifs">
+<button> 🥀 </button>
+<input type = "text" placeholder="kid named finger">
+<button> waltuh </button>
+<input type = "date">
+<input type = "time">
+<input type = "color">
