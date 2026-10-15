@@ -32,11 +32,12 @@
 <link rel="stylesheet" href="styles.css">
 
 <img src = "Google-Logo.png" width = "80%">
-<input type = "text">
-<div class="breaky"></div>
-<div class="search-buttons">
-    <button> Google Search </button>
-    <button> I'm Feeling Lucky </button>
+<div class="search-area">
+    <input type = "text">
+    <div class="search-buttons">
+        <button> Google Search </button>
+        <button> I'm Feeling Lucky </button>
+    </div>
 </div>
 
 
