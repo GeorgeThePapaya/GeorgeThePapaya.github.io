@@ -25,3 +25,4 @@
 <input type = "date">
 <input type = "time">
 <input type = "color">
+<input type = "file">
