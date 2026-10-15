@@ -34,12 +34,13 @@
 <img src = "Google-Logo.png" width = "80%">
 <input type = "text">
 <div class="breaky"></div>
-<button> Google Search </button>
-<button> I'm Feeling Lucky </button>
+<div class="search-buttons">
+    <button> Google Search </button>
+    <button> I'm Feeling Lucky </button>
+</div>
 
 
 <br>
 <br>
 <br>
-<a href="https://media1.tenor.com/m/4Ro-nOcEVVMAAAAd/michaeljordan-mj.gif"> free virus </a href>
-
+<a href="https://media1.tenor.com/m/4Ro-nOcEVVMAAAAd/michaeljordan-mj.gif"> free virus </a>
