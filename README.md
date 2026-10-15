@@ -26,3 +26,13 @@
 <input type = "time">
 <input type = "color">
 <input type = "file">
+
+
+<h3> Mock Google, no style-sheet, 10/15/2026 </h3>
+<link rel="stylesheet" href="styles.css">
+
+<img src = "google-logo.png" width = "80%">
+<input type = "text">
+<div class="breaky"></div>
+<button> Google Search </button>
+<button> I'm Feeling Lucky </button>
