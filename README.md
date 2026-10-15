@@ -31,7 +31,7 @@
 <h3> Mock Google, no style-sheet, 10/15/2026 </h3>
 <link rel="stylesheet" href="styles.css">
 
-<img src = "Google-Logo.png" width = "50%">
+<img src = "Google-Logo.png" width = "10%">
 <div class="search-area">
     <input type = "text">
     <div class="search-buttons">
